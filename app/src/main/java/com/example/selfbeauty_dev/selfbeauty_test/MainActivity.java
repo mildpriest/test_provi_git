@@ -22,7 +22,7 @@ public class MainActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //레이아웃 세팅 1111
+        //레이아웃 세팅
         setContentView(R.layout.activity_main);
 
         //웹뷰 선언

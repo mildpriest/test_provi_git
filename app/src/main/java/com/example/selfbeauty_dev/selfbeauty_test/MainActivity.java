@@ -15,6 +15,7 @@ import android.widget.ImageButton;
 
 public class MainActivity extends FragmentActivity {
 
+    //git test !!
     public static WebView mWebView;
     public static String domain = "https://www.selfbeauty.com/";
 
